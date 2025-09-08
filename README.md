@@ -1,1 +1,2 @@
-# tavkozles
+# szar
+## *szar vagy öcskös*
