@@ -1,2 +1,3 @@
 # szar
 ## *szar vagy öcskös*
+https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmAHAJmgdgGzoRmACzICcpkORI5ISJdApgLRhgBQAbjTuKejxCpIUcCHRw6I6VGgJ2AJ0Fh+4oiJUCNcdgHdBwtSMOQ9RoSPTq+W9uuTgwAtgKsbcosAH0qXyF-VyL2E-aFQvVi90L29kdgB7MSpRQNILWVRRZxR2IA
